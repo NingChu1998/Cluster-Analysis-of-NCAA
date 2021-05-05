@@ -1,0 +1,350 @@
+"Scholl","W.L.","Operating.Expenses.per.Team.Men.s.Team","Revenues.Men.s.Team","Expenses.Men.s.Team","Coference","clustergroup"
+"1","Virginia ",0.921,2463240,13400721,13400721,"Atlantic Coast Conference",3
+"2","Gonzaga ",0.892,1625865,16147924,10496251,"West Coast Conference",3
+"3","Houston ",0.892,1679313,9219796,9219796,"American Athletic Conference",3
+"4","Buffalo",0.889,757485,3093556,3093556,"Mid-American Conference",4
+"5","New Mexico State",0.857,622278,3077862,3077862,"Western Athletic Conference",4
+"6","Wofford ",0.857,527709,1965358,1965358,"Southern Conference",4
+"7","Nevada ",0.853,1043052,4706010,4706010,"Mountain West Conference",4
+"8","Murray State ",0.848,348320,3896362,2398909,"Ohio Valley Conference",4
+"9","Duke ",0.842,4159957,35489891,22178473,"Atlantic Coast Conference",1
+"10","Tennessee ",0.838,2015302,17003826,10554613,"Southern Conference",3
+"11","UC-Irvine ",0.838,616625,2953537,2953537,"Big West Conference",4
+"12","Michigan State ",0.821,4832870,23808250,14395851,"Big Ten Conference",1
+"13","Belmont ",0.818,313307,5129856,5129856,"Ohio Valley Conference",4
+"14","Texas Tech ",0.816,3727213,12382899,12338645,"Big 12 Conference",1
+"15","Kentucky ",0.811,3318399,38829651,20202558,"Southeastern Conference",1
+"16","Michigan ",0.811,2074423,21114322,9874360,"Big Ten Conference",3
+"17","Liberty ",0.806,662073,3400852,3400852,"ASUN Conference",4
+"18","North Carolina ",0.806,3616994,27076307,11204115,"Atlantic Coast Conference",1
+"19","North Carolina-Greensboro",0.806,651057,2275162,2275162,"Southern Conference",4
+"20","Cincinnati ",0.8,2029576,7644770,7644770,"American Athletic Conference",3
+"21","Louisiana State ",0.8,1640142,9965537,9512515,"Southeastern Conference",3
+"22","Utah State ",0.8,569259,4250996,4250996,"Mountain West Conference",4
+"23","Abilene Christian ",0.794,484638,1178426,1178426,"Southland Conference",4
+"24","Vermont ",0.794,471834,2520742,2261158,"America East Conference",4
+"25","Florida State ",0.784,2633659,16773013,16773013,"Atlantic Coast Conference",1
+"26","Lipscomb",0.784,516648,2228677,2228677,"ASUN Conference",4
+"27","Hofstra",0.771,456954,2939154,2939154,"Colonial Athletic Association",4
+"28","Furman",0.758,457880,2576740,2293070,"Southern Conference",4
+"29","Toledo",0.758,334019,2673988,2673988,"Mid-American Conference",4
+"30","Virginia Commonwealth ",0.758,1116865,8833917,6102633,"Atlantic 10 Conference",4
+"31","Auburn ",0.75,2228307,15593947,10536653,"Southeastern Conference",3
+"32","Washington ",0.75,1900766,11409380,9224123,"Pac-12 Conference",3
+"33","Montana ",0.743,172517,1974451,2452114,"Big Sky Conference",4
+"34","Northern Kentucky ",0.743,588131,2470374,2470374,"Horizon League",4
+"35","Old Dominion ",0.743,1407307,3953002,3953002,"Conference USA",4
+"36","Virginia Tech ",0.743,2226606,9886728,8525606,"Atlantic Coast Conference",3
+"37","Kansas State ",0.735,1923768,10733840,8028533,"Big 12 Conference",3
+"38","Yale ",0.733,378901,1416853,1416853,"The Ivy League",4
+"39","Central Florida ",0.727,1057414,3879707,4594025,"American Athletic Conference",4
+"40","College of Charleston",0.727,713611,3289426,3289426,"Colonial Athletic Association",4
+"41","Jacksonville State",0.727,302772,1497090,1497090,"Ohio Valley Conference",4
+"42","South Dakota State",0.727,509309,2177776,2177776,"The Summit League",4
+"43","Stony Brook",0.727,587847,2064588,2392346,"America East Conference",4
+"44","Kansas ",0.722,2912703,18974009,12547439,"Big 12 Conference",1
+"45","Purdue ",0.722,2612400,18017191,9604624,"Big Ten Conference",3
+"46","Villanova ",0.722,4196644,14428932,14428932,"Big East Conference",1
+"47","Fresno State",0.719,615944,3642878,3642878,"Mountain West Conference",4
+"48","Utah Valley",0.714,632704,2006839,1866466,"Western Athletic Conference",4
+"49","Davidson",0.706,675253,3476469,3297453,"Atlantic 10 Conference",4
+"50","Drake",0.706,920372,2557916,2649047,"Missouri Valley Conference",4
+"51","East Tennessee State",0.706,404907,1878553,1878553,"Southern Conference",4
+"52","Georgia State ",0.706,519797,2917278,2917278,"Sun Belt Conference",4
+"53","Marquette ",0.706,6255125,21856683,14979149,"Big East Conference",1
+"54","Texas State",0.706,497884,1976474,1976474,"Sun Belt Conference",4
+"55","Temple ",0.697,1395109,6487460,6487460,"American Athletic Conference",3
+"56","UC-Santa Barbara",0.688,419302,3202493,3202493,"Big West Conference",4
+"57","Colgate ",0.686,334592,2126456,2126456,"Patriot League",4
+"58","San Francisco",0.677,845213,4071649,4071649,"West Coast Conference",4
+"59","Arizona State ",0.676,1302149,10609465,8349598,"Pac-12 Conference",3
+"60","Maryland ",0.676,1846192,14059425,9163793,"Big Ten Conference",3
+"61","Mississippi State ",0.676,1722335,8030614,7443131,"Southeastern Conference",3
+"62","Northeastern ",0.676,466414,3207255,3207255,"Colonial Athletic Association",4
+"63","Wisconsin ",0.676,1761883,21701868,8548485,"Big Ten Conference",3
+"64","Austin Peay",0.667,476794,2338400,1904820,"Ohio Valley Conference",4
+"65","Kent State",0.667,615674,2158311,2158311,"Mid-American Conference",4
+"66","North Carolina State",0.667,1581391,16533014,10295048,"Atlantic Coast Conference",3
+"67","Radford",0.667,326458,1682177,1682177,"Big South Conference",4
+"68","Oregon ",0.658,1999558,10918131,10348633,"Pac-12 Conference",3
+"69","Central Michigan",0.657,533295,2168814,2168814,"Mid-American Conference",4
+"70","Gardner-Webb ",0.657,274645,1195668,1195668,"Big South Conference",4
+"71","Iowa State ",0.657,1796232,14670525,7693014,"Big 12 Conference",3
+"72","Iowa ",0.657,1796232,14670525,7693014,"Big Ten Conference",3
+"73","Northern Colorado",0.656,445084,1538837,1538837,"Big Sky Conference",4
+"74","Omaha",0.656,297766,1262543,1262543,"The Summit League",4
+"75","Bowling Green State",0.647,763590,2544177,2544177,"Mid-American Conference",4
+"76","Loyola Marymount",0.647,1031999,4137858,4137858,"West Coast Conference",4
+"77","Saint Mary's (CA) ",0.647,875853,4401818,4401818,"West Coast Conference",4
+"78","Lehigh",0.645,249338,1725866,1725866,"Patriot League",4
+"79","Colorado",0.639,1248781,9310818,7252987,"Pac-12 Conference",3
+"80","Saint Louis ",0.639,1142220,7428566,7428566,"Atlantic 10 Conference",3
+"81","Bucknell",0.636,450192,2624075,2624075,"Patriot League",4
+"82","Dayton",0.636,1707194,16281364,7434825,"Atlantic 10 Conference",3
+"83","Georgia Southern",0.636,498208,1505129,1505129,"Sun Belt Conference",4
+"84","North Texas",0.636,636066,2847662,2847662,"Conference USA",4
+"85","Sam Houston State",0.636,266977,1194442,1194442,"Southland Conference",4
+"86","South Florida",0.632,1389781,4931868,4931868,"American Athletic Conference",4
+"87","Texas Southern",0.632,127730,1713806,1696591,"Southwestern Athletic Conf.",4
+"88","NJIT",0.629,333829,1857284,1857283,"ASUN Conference",4
+"89","Prairie View ",0.629,277918,1184538,1184538,"Southwestern Athletic Conf.",4
+"90","Brown",0.625,440738,1239495,1239495,"The Ivy League",4
+"91","Marshall",0.622,1088921,3161233,3161233,"Conference USA",4
+"92","Texas Christian",0.622,2062641,14852389,15718763,"Big 12 Conference",3
+"93","Maryland-Baltimore County",0.618,571936,2461304,2222771,"America East Conference",4
+"94","San Diego State",0.618,2733090,6248159,5786034,"Mountain West Conference",3
+"95","St. John's (NY) ",0.618,2290446,10028677,10028677,"Big East Conference",3
+"96","Harvard",0.613,439653,1474941,1474941,"The Ivy League",4
+"97","Pennsylvania",0.613,555447,2049825,2049825,"The Ivy League",4
+"98","Memphis",0.611,1468391,8217757,8217757,"American Athletic Conference",3
+"99","Minnesota ",0.611,2056051,18835871,9115817,"Big Ten Conference",3
+"100","Norfolk State",0.611,386482,1477761,1477761,"Mid-Eastern Athletic Conf.",4
+"101","Campbell",0.606,556005,2085183,2085182,"Big South Conference",4
+"102","Lamar",0.606,232987,1405823,1384151,"Southland Conference",4
+"103","Louisiana Tech",0.606,541345,2566614,2556193,"Conference USA",4
+"104","Mississippi ",0.606,2219138,11224450,9432295,"Southeastern Conference",3
+"105","Southern Mississippi",0.606,643577,2169053,2169053,"Conference USA",4
+"106","Fairleigh Dickinson ",0.6,326196,1846780,1846780,"Northeast Conference",4
+"107","Winthrop",0.6,230080,2101706,1780882,"Big South Conference",4
+"108","Wright State",0.6,782338,3330147,3330147,"Horizon League",4
+"109","Wichita State",0.595,1838637,8182863,8182863,"American Athletic Conference",3
+"110","Brigham Young",0.594,1795176,7447430,7447430,"West Coast Conference",3
+"111","Duquesne",0.594,1359887,5612982,5612982,"Atlantic 10 Conference",4
+"112","Louisiana",0.594,523170,2780548,2780548,"Sun Belt Conference",4
+"113","North Carolina A&T",0.594,264037,1409516,1409516,"Mid-Eastern Athletic Conf.",2
+"114","Baylor ",0.588,2091702,9860432,9860432,"Big 12 Conference",3
+"115","Clemson",0.588,1128513,9224524,8229736,"Atlantic Coast Conference",3
+"116","Florida International",0.588,536148,2004600,1951680,"Conference USA",4
+"117","Grand Canyon",0.588,1058088,5331006,5331006,"Western Athletic Conference",4
+"118","Louisville ",0.588,3919664,42759248,19180078,"Atlantic Coast Conference",1
+"119","Loyola (IL)",0.588,655452,4348837,4348837,"Missouri Valley Conference",4
+"120","Oklahoma ",0.588,2643937,12355263,10072404,"Big 12 Conference",3
+"121","Seton Hall ",0.588,1332286,7506127,7506127,"Big East Conference",3
+"122","Syracuse ",0.588,1999387,34567071,14845555,"Atlantic Coast Conference",1
+"123","Western Kentucky",0.588,849956,3455918,3455918,"Conference USA",4
+"124","San Diego",0.583,594930,3120907,3120907,"West Coast Conference",4
+"125","Hawaii",0.581,585632,2960055,2960055,"Big West Conference",4
+"126","Oregon State",0.581,1189012,6326806,6203088,"Pac-12 Conference",3
+"127","Georgetown",0.576,3411520,13573946,13573946,"Big East Conference",1
+"128","New Orleans",0.576,252571,1052459,1052459,"Southland Conference",2
+"129","Alabama-Birmingham",0.571,685084,3628668,3533944,"Conference USA",4
+"130","Bradley ",0.571,587983,3778660,3778660,"Missouri Valley Conference",4
+"131","Creighton",0.571,1334371,8590055,8590055,"Big East Conference",3
+"132","Ohio State ",0.571,2578786,24953122,10996364,"Big Ten Conference",1
+"133","Princeton",0.571,301476,1342776,1342776,"The Ivy League",2
+"134","Texas",0.568,1758071,16493236,11649912,"Big 12 Conference",3
+"135","Tulsa",0.563,959473,6196308,6196308,"American Athletic Conference",4
+"136","Florida ",0.556,1975457,11943413,9317385,"Southeastern Conference",3
+"137","Presbyterian",0.556,279822,1330762,1330762,"Big South Conference",2
+"138","Green Bay",0.553,528274,1874827,1874827,"Horizon League",2
+"139","Nevada-Las Vegas",0.548,1059706,5795483,5795483,"Mountain West Conference",4
+"140","Utah",0.548,1252177,10511632,8965613,"Pac-12 Conference",3
+"141","George Mason",0.545,924371,4287689,4287689,"Atlantic 10 Conference",2
+"142","Hartford",0.545,431992,2303817,2303817,"America East Conference",2
+"143","Purdue-Fort Wayne",0.545,535831,1700944,1700944,"The Summit League",2
+"144","Rhode Island",0.545,1615011,4799098,4745208,"Atlantic 10 Conference",4
+"145","Saint Francis (PA)",0.545,485734,2040877,2040877,"Northeast Conference",2
+"146","Seattle",0.545,1002900,2681442,2681442,"Western Athletic Conference",2
+"147","Weber State",0.545,442466,1913406,1913406,"Big Sky Conference",2
+"148","Indiana",0.543,2647513,27008415,13230211,"Big Ten Conference",1
+"149","Louisiana-Monroe",0.543,184268,1591652,1667122,"Sun Belt Conference",2
+"150","North Dakota State ",0.543,543976,1720634,1720634,"The Summit League",2
+"151","Xavier",0.543,2649167,13916975,7406374,"Big East Conference",3
+"152","Texas-Rio Grande Valley",0.541,619108,1652983,1652983,"Western Athletic Conference",2
+"153","Arizona",0.531,3419410,22437254,10383630,"Pac-12 Conference",1
+"154","Southern Illinois",0.531,740924,2482549,2482549,"Missouri Valley Conference",2
+"155","Texas-San Antonio",0.531,611901,2239480,2239480,"Conference USA",2
+"156","Alabama",0.529,1457096,16028795,15966875,"Southeastern Conference",3
+"157","Arkansas",0.529,2052699,21424702,10440326,"Southeastern Conference",3
+"158","Cal State Bakersfield",0.529,578593,2714877,2333990,"Western Athletic Conference",2
+"159","Charleston Southern",0.529,351197,1243917,1243917,"Big South Conference",2
+"160","North Carolina Central ",0.529,66291,1710811,1710811,"Mid-Eastern Athletic Conf.",2
+"161","Providence",0.529,2320592,11117186,11117186,"Big East Conference",3
+"162","St. Bonaventure",0.529,828026,3832105,3832105,"Atlantic 10 Conference",2
+"163","DePaul",0.528,1166869,6793520,6793520,"Big East Conference",3
+"164","Nebraska",0.528,1964941,15042854,9180631,"Big Ten Conference",3
+"165","California Baptist",0.516,417881,2555371,2503353,"Western Athletic Conference",2
+"166","High Point",0.516,480994,3457345,3369936,"Big South Conference",2
+"167","Quinnipiac",0.516,261722,3203013,3203013,"Metro Atlantic Athletic Conference",2
+"168","Rider",0.516,378711,2508228,2508228,"Metro Atlantic Athletic Conference",2
+"169","Santa Clara",0.516,364113,4445480,4445480,"West Coast Conference",2
+"170","Akron",0.515,752096,3045115,3045115,"Mid-American Conference",2
+"171","Delaware",0.515,506915,2785559,2785559,"Colonial Athletic Association",2
+"172","Florida Atlantic",0.515,446857,2352069,2352069,"Conference USA",2
+"173","Illinois State",0.515,443952,2440752,2440752,"Missouri Valley Conference",2
+"174","Iona ",0.515,549745,2881346,2881346,"Metro Atlantic Athletic Conference",2
+"175","Samford",0.515,349587,1917385,1917384,"Southern Conference",2
+"176","Siena",0.515,1184716,3219292,3219292,"Metro Atlantic Athletic Conference",2
+"177","Southeastern Louisiana",0.515,209110,1172241,1172241,"Southland Conference",2
+"178","St. Francis (NY)",0.515,270264,1358525,1358525,"Northeast Conference",2
+"179","Texas-Arlington",0.515,631778,2557576,2557576,"Sun Belt Conference",2
+"180","UCLA",0.515,2499540,11959355,15468381,"Pac-12 Conference",3
+"181","Hampton",0.514,339304,1828090,1460137,"Big South Conference",2
+"182","Robert Morris",0.514,740364,2661978,2661978,"Northeast Conference",2
+"183","American",0.5,297484,2072510,2072510,"Patriot League",2
+"184","Coastal Carolina",0.5,501274,2243214,2243214,"Sun Belt Conference",2
+"185","Grambling",0.5,326484,913266,913266,"Southwestern Athletic Conf.",2
+"186","Howard",0.5,112258,1338284,1338284,"Mid-Eastern Athletic Conf.",2
+"187","Illinois-Chicago",0.5,409178,2248503,2248503,"Horizon League",2
+"189","Missouri State",0.5,782348,2808838,2808838,"Missouri Valley Conference",2
+"190","Northern Illinois",0.5,444414,1775696,1775696,"Mid-American Conference",2
+"191","Portland State",0.5,431247,1809651,1809651,"Big Sky Conference",2
+"192","South Alabama",0.5,434073,2313701,2052778,"Sun Belt Conference",2
+"193","South Carolina",0.5,244941,785619,785619,"Southeastern Conference",2
+"194","Southern Utah",0.5,395517,1274977,1301285,"Big Sky Conference",2
+"195","Ball State",0.485,611752,1975432,1975432,"Mid-American Conference",2
+"196","Butler",0.485,1077590,8228482,5760815,"Big East Conference",3
+"197","Connecticut",0.485,3045093,9325922,9325922,"American Athletic Conference",3
+"198","Holy Cross",0.485,272622,2282921,2282921,"Patriot League",2
+"199","IUPUI",0.485,447875,1928860,1928860,"Horizon League",2
+"200","North Florida",0.485,331392,1532649,1532649,"ASUN Conference",2
+"201","Oakland",0.485,376624,2184404,1940265,"Horizon League",2
+"202","Southern California",0.485,1346460,6275440,6901843,"Pac-12 Conference",3
+"203","Cornell",0.484,226514,1143930,1143930,"The Ivy League",2
+"204","Indiana State",0.484,627302,2129934,2129934,"Missouri Valley Conference",2
+"205","Sacramento State",0.484,471246,1667359,1667359,"Big Sky Conference",2
+"206","Stanford",0.484,1303284,6769220,7143168,"Pac-12 Conference",3
+"207","Cal State Fullerton",0.471,474888,2114807,2114807,"Big West Conference",2
+"208","Eastern Washington",0.471,438840,1630809,1630808,"Big Sky Conference",2
+"209","Longwood",0.471,315693,1837437,1640350,"Big South Conference",2
+"210","Northern Iowa",0.471,582756,3550793,3550793,"Missouri Valley Conference",2
+"211","Pepperdine",0.471,508079,3975688,3975688,"West Coast Conference",2
+"212","Canisius",0.469,266922,1639094,1639094,"Metro Atlantic Athletic Conference",2
+"213","Eastern Michigan",0.469,450087,2170870,2170870,"Mid-American Conference",2
+"214","Massachusetts-Lowell",0.469,330111,2001656,1882325,"America East Conference",2
+"215","Miami (OH)",0.469,387561,2234349,2234349,"Mid-American Conference",2
+"216","Missouri",0.469,1759741,12586990,8255259,"Southeastern Conference",3
+"217","Montana State",0.469,573676,1833808,2094896,"Metro Atlantic Athletic Conference",2
+"218","Sacred Heart",0.469,245675,1496346,1496346,"Northeast Conference",2
+"219","Southern Methodist",0.469,1511850,7590481,7590481,"American Athletic Conference",3
+"220","Stephen F. Austin",0.467,501822,2015066,2015066,"Southland Conference",2
+"221","Boston University",0.455,388475,2669686,2669686,"Patriot League",2
+"222","Valparaiso",0.455,473728,2461689,2415050,"Missouri Valley Conference",2
+"223","Bethune-Cookman",0.452,306232,1079602,1079602,"Mid-Eastern Athletic Conf.",2
+"224","Boston College",0.452,1754150,7225974,6872835,"Atlantic Coast Conference",3
+"225","Nicholls State",0.452,208663,821452,798687,"Southland Conference",2
+"226","Ohio",0.452,438308,3337404,3337404,"Mid-American Conference",2
+"227","Rutgers",0.452,1773891,7545360,7545360,"Big Ten Conference",3
+"228","William & Mary",0.452,473110,3970949,3970949,"Colonial Athletic Association",2
+"229","Cal State Long Beach",0.441,495713,2412791,2412791,"Big West Conference",2
+"231","Eastern Illinois",0.438,289850,1146676,1146676,"Ohio Valley Conference",2
+"232","Florida Gulf Coast",0.438,354089,1589474,1589474,"ASUN Conference",2
+"233","Georgia Tech",0.438,1542063,6910271,7095493,"Atlantic Coast Conference",3
+"234","Miami (FL)",0.438,2595829,9988284,8895333,"Atlantic Coast Conference",3
+"235","New Mexico",0.438,844544,4206654,4206654,"Mountain West Conference",2
+"236","Pacific",0.438,715769,3181522,3181522,"West Coast Conference",2
+"237","Penn State",0.438,1742760,11344446,7343831,"Big Ten Conference",3
+"238","Texas A&M",0.438,2019264,12349705,11818860,"Southeastern Conference",3
+"239","Texas A&M-Corpus Christi",0.438,537550,1901648,1901648,"Southland Conference",2
+"240","South Dakota",0.433,357150,1469868,1469868,"The Summit League",2
+"241","Wagner",0.433,205660,1520014,1487551,"Northeast Conference",2
+"242","Central Arkansas",0.424,415201,1295287,1295287,"Southland Conference",2
+"243","James Madison",0.424,515385,2709807,2709807,"Colonial Athletic Association",2
+"244","Notre Dame",0.424,1789870,4153208,8331273,"Atlantic Coast Conference",3
+"245","Pittsburgh",0.424,2410918,13220336,11013283,"Atlantic Coast Conference",3
+"246","Saint Joseph's",0.424,731463,6152876,6152876,"Atlantic 10 Conference",2
+"247","Eastern Kentucky",0.419,361924,1576265,1576265,"Ohio Valley Conference",2
+"248","West Virginia",0.417,2928859,8484584,10798893,"Big 12 Conference",3
+"249","Arkansas State",0.406,514978,1578156,1578156,"Sun Belt Conference",2
+"250","Arkansas-Pine Bluff",0.406,252993,833958,833958,"Southwestern Athletic Conf.",2
+"252","Drexel",0.406,489257,2760011,2760011,"Colonial Athletic Association",2
+"253","Jackson State",0.406,108201,676673,676673,"Southwestern Athletic Conf.",2
+"254","Niagara",0.406,493252,1683937,1683937,"Metro Atlantic Athletic Conference",2
+"255","Northwestern",0.406,1350230,12669660,10646711,"Big Ten Conference",3
+"256","Rice",0.406,686388,3169654,3169654,"Conference USA",2
+"257","Citadel",0.4,306303,1613769,1477703,"Southern Conference",2
+"258","Houston Baptist",0.4,419424,1345408,1345408,"Southland Conference",2
+"259","Monmouth",0.4,469385,2795919,2795919,"Big Sky Conference",2
+"260","North Dakota",0.4,496687,1943907,1943907,"The Summit League",2
+"261","Troy",0.4,147088,2198323,2604565,"Sun Belt Conference",2
+"262","Boise State",0.394,750899,5146160,3678140,"Mountain West Conference",2
+"263","Morehead State",0.394,298334,1361968,1361968,"Ohio Valley Conference",2
+"264","Richmond",0.394,940967,4782542,4782542,"Atlantic 10 Conference",2
+"265","Alabama State",0.387,180911,992694,992694,"Southwestern Athletic Conf.",2
+"266","Florida A&M",0.387,279905,1033463,1033463,"Mid-Eastern Athletic Conf.",2
+"267","Marist",0.387,310376,2358993,2358993,"Metro Atlantic Athletic Conference",2
+"268","Tennessee-Martin",0.387,255807,1270841,1119003,"Ohio Valley Conference",2
+"269","Cal State Northridge",0.382,511526,2238825,2438136,"Big West Conference",5
+"270","Albany (NY)",0.375,289366,2109818,1799859,"America East Conference",5
+"271","Chattanooga",0.375,416048,1940945,1940945,"Southern Conference",5
+"272","Colorado State",0.375,836359,4415218,4415218,"Mountain West Conference",5
+"273","Fordham",0.375,1177465,5075355,5075355,"Atlantic 10 Conference",5
+"274","Jacksonville",0.375,408306,2025816,2025816,"ASUN Conference",5
+"275","Oklahoma State",0.375,1568727,12659706,6700510,"Big 12 Conference",3
+"276","Youngstown State",0.375,312350,1555175,1555175,"Horizon League",5
+"277","Dartmouth",0.367,312916,1131199,1131199,"The Ivy League",5
+"278","Idaho State",0.367,376990,1461637,1461637,"Big Sky Conference",5
+"279","Illinois",0.364,1562280,21419589,10480939,"Big Ten Conference",3
+"280","Columbia",0.357,294014,1445658,1445658,"The Ivy League",5
+"281","Central Connecticut State",0.355,65936,1402297,1402297,"Northeast Conference",5
+"282","Detroit Mercy",0.355,535940,3276678,3276678,"Horizon League",5
+"283","Mercer",0.355,223825,2062738,2062738,"Southern Conference",5
+"284","Northwestern State",0.355,185817,1132840,1132840,"Southland Conference",5
+"285","Savannah State",0.355,98222,629174,581988,"Southern Intercol. Ath. Conf.",5
+"286","UC-Davis",0.355,461142,2395167,2395167,"Big West Conference",5
+"287","Wake Forest",0.355,1302561,9148670,8805630,"Atlantic Coast Conference",3
+"288","Appalachian State",0.344,544143,1952593,1952593,"Sun Belt Conference",5
+"289","Elon",0.344,466254,3221829,3221829,"Colonial Athletic Association",5
+"290","Evansville",0.344,472613,2570477,2570477,"Missouri Valley Conference",5
+"291","Georgia",0.344,1479200,10693803,7756002,"Southeastern Conference",3
+"292","Loyola (MD)",0.344,297484,2072510,2072510,"Patriot League",5
+"293","Manhattan",0.344,426855,2455366,2455366,"Metro Atlantic Athletic Conference",5
+"294","Massachusetts",0.344,824262,4025395,4025395,"Atlantic 10 Conference",5
+"295","Middle Tennessee",0.344,722435,2982636,2982636,"Conference USA",5
+"296","Missouri-Kansas City",0.344,472426,3902606,2246404,"Western Athletic Conference",5
+"297","Oral Roberts",0.344,637892,2300880,2085974,"The Summit League",5
+"298","VMI",0.344,241928,1547786,1547786,"Southern Conference",5
+"299","Washington State",0.344,751369,6171373,5483898,"Pac-12 Conference",5
+"300","Bryant",0.333,323259,1883381,1883381,"Northeast Conference",5
+"301","Lafayette",0.333,179005,1938231,1938231,"Patriot League",5
+"302","Alcorn State",0.323,114031,533743,533743,"Southwestern Athletic Conf.",5
+"303","Cleveland State",0.323,704618,2122220,2140282,"Horizon League",5
+"304","East Carolina",0.323,917519,3945332,3942406,"American Athletic Conference",5
+"305","La Salle",0.323,1095427,3558014,3558014,"Atlantic 10 Conference",5
+"306","Little Rock",0.323,519698,1107986,2126312,"Sun Belt Conference",5
+"307","Northern Arizona",0.323,583330,1805164,1805164,"Big Sky Conference",5
+"308","SIU Edwardsville",0.323,306306,1348897,1342465,"Ohio Valley Conference",5
+"309","Southeast Missouri State",0.323,203120,1304144,1304144,"Ohio Valley Conference",5
+"310","Western Illinois",0.323,348195,1190756,1190756,"The Summit League",5
+"311","North Alabama",0.313,315462,1159508,1159508,"ASUN Conference",5
+"312","Saint Peter's",0.313,279753,1641425,1641425,"Metro Atlantic Athletic Conference",5
+"313","Towson",0.313,415561,2259918,2259918,"Colonial Athletic Association",5
+"314","Binghamton",0.303,329097,1753592,1753592,"America East Conference",5
+"315","North Carolina-Wilmington",0.303,461029,2317837,2317837,"Colonial Athletic Association",5
+"316","UC-Riverside",0.303,465974,2542300,2485812,"Big West Conference",5
+"317","Morgan State",0.3,483799,1517680,1517680,"Mid-Eastern Athletic Conf.",5
+"318","Tennessee State",0.3,206677,1414097,1330636,"Ohio Valley Conference",5
+"319","Fairfield",0.29,540001,3280514,3280514,"Metro Atlantic Athletic Conference",5
+"320","McNeese State",0.29,256889,1162753,1162753,"Atlantic 10 Conference",5
+"321","Milwaukee",0.29,484400,2588033,2588033,"Horizon League",5
+"322","Mount St. Mary's",0.29,357059,1815414,1815414,"Northeast Conference",5
+"323","Vanderbilt",0.281,1339664,10876435,9901818,"Southeastern Conference",3
+"324","Charlotte",0.276,670027,3295523,3295523,"Conference USA",5
+"325","Texas-El Paso",0.276,775724,5016121,4247850,"Conference USA",5
+"326","George Washington",0.273,441964,3548937,3548937,"Atlantic 10 Conference",5
+"327","Denver",0.267,562118,2532725,2532725,"The Summit League",5
+"328","Tennessee Tech",0.258,227125,1161305,1161305,"Ohio Valley Conference",5
+"329","University of California,Berkeley",0.258,1377224,7840731,6131940,"Pac-12 Conference",5
+"330","Western Michigan",0.25,404706,2243842,2243842,"Mid-American Conference",5
+"331","Wyoming",0.25,712472,3329650,3329650,"Mountain West Conference",5
+"332","Coppin State",0.242,200190,785999,785999,"Mid-Eastern Athletic Conf.",5
+"333","South Carolina State",0.235,1146997,11093661,8561964,"Mid-Eastern Athletic Conf.",3
+"334","Stetson",0.226,268370,2386051,2386051,"ASUN Conference",5
+"335","Maryland-Eastern Shore",0.219,237926,1438650,1000683,"Mid-Eastern Athletic Conf.",5
+"336","Portland",0.219,597065,3599607,3599607,"West Coast Conference",5
+"337","Southern",0.219,224315,596992,815704,"Southwestern Athletic Conf.",5
+"338","Western Carolina",0.219,208570,1089269,1089269,"Southern Conference",5
+"339","Cal Poly",0.207,477268,2181492,2181492,"Big West Conference",5
+"340","Delaware State",0.194,200570,910671,910671,"Mid-Eastern Athletic Conf.",5
+"341","Incarnate Word",0.194,196159,1416859,1371582,"Southland Conference",5
+"342","Kennesaw State",0.188,376061,1511263,1510719,"ASUN Conference",5
+"343","Mississippi Valley State",0.188,237366,733665,576526,"Southwestern Athletic Conf.",5
+"344","South Carolina Upstate",0.188,184083,1167592,1167592,"Big South Conference",5
+"345","New Hampshire",0.172,228705,1601005,1601005,"America East Conference",5
+"346","Alabama A&M",0.156,184268,1591652,1667122,"Southwestern Athletic Conf.",5
+"347","Idaho",0.156,476316,1729001,1729001,"Big Sky Conference",5
+"348","Maine",0.156,383384,1432766,1432766,"America East Conference",5
+"349","North Carolina-Asheville",0.129,198337,1183573,1183573,"Big South Conference",5
+"350","San Jose State",0.129,295732,2035793,2035793,"Mountain West Conference",5
+"351","Tulane",0.129,1399228,4984520,4984520,"American Athletic Conference",5
+"352","Chicago State",0.094,71553,978120,801305,"Western Athletic Conference",5
